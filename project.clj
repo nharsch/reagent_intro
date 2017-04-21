@@ -9,7 +9,7 @@
 
   :cljsbuild {:builds [{:id "dev"
                         :source-paths ["src"]
-                        ;; :figwheel true
+                        :figwheel true
                         :compiler
                         {:optimizations :none
                          :output-to "resources/public/javascripts/dev.js"
@@ -18,8 +18,10 @@
                          :source-map true}}]}
 
   :plugins [[lein-cljsbuild "1.0.6"]
-            ;; [lein-figwheel "0.3.7"]
+            [lein-figwheel "0.3.7"]
             ]
+
+  :figwheel {:css-dirs ["resources/public/assets/stylesheets"]}
 
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/clojurescript "0.0-3308"]

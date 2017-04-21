@@ -1,0 +1,100 @@
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.279 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  resources/public/javascripts/cljs-dev/goog/deps.js
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+WARNING: Use of undeclared Var reagent-intro.core/EVENTS at line 15 src/reagent_intro/core.cljs
+WARNING: Use of undeclared Var reagent-intro.core/app-state at line 19 src/reagent_intro/core.cljs
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.302 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+WARNING: Use of undeclared Var reagent-intro.core/app-state at line 12 src/reagent_intro/core.cljs
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.252 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+WARNING: Use of undeclared Var reagent-intro.core/app-state at line 12 src/reagent_intro/core.cljs
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.267 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.241 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.248 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.228 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.225 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.186 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  resources/public/javascripts/cljs-dev/goog/deps.js
+notifying browser that file changed:  /reagent_intro/core.js
+sending changed CSS file: resources/public/assets/stylesheets/styles.css
+sending changed CSS file: resources/public/assets/stylesheets/styles.css
+sending changed CSS file: resources/public/assets/stylesheets/styles.css
+sending changed CSS file: resources/public/assets/stylesheets/styles.css
+sending changed CSS file: resources/public/assets/stylesheets/styles.css
+sending changed CSS file: resources/public/assets/stylesheets/styles.css
+sending changed CSS file: resources/public/assets/stylesheets/styles.css
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.287 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.254 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.261 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.283 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.232 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.253 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.157 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  resources/public/javascripts/cljs-dev/goog/deps.js
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.248 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.246 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.243 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.286 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.213 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.234 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.216 seconds.[0m
+notifying browser that file changed:  resources/public/javascripts/dev.js
+notifying browser that file changed:  /reagent_intro/core.js
+[0mCompiling "resources/public/javascripts/dev.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/javascripts/dev.js" in 0.227 seconds.[0m
+notifying browser that file changed:  /reagent_intro/core.js
